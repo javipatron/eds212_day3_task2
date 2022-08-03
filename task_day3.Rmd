@@ -1,0 +1,27 @@
+---
+title: "Tasks Day3"
+author: "Javier Patron"
+date: "2022-08-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+a <- c(1,6)
+b <- c(2,4)
+
+a+b
+b-a
+4*a
+a %*% b
+
+```
+
+### PART 3
+## Fork & clone a repo, use the code
+
+
+
